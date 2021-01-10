@@ -1,0 +1,13 @@
+https://github.com/CVC4/CVC4/issues/4333 Confirmed
+https://github.com/CVC4/CVC4/issues/3441 Dup
+https://github.com/CVC4/CVC4/issues/3440 Fixed
+https://github.com/CVC4/CVC4/issues/3430 Fixed
+https://github.com/CVC4/CVC4/issues/3412 Fixed
+https://github.com/CVC4/CVC4/issues/3375 Fixed
+https://github.com/CVC4/CVC4/issues/3357 Fixed
+https://github.com/CVC4/CVC4/issues/3286 Confirmed
+https://github.com/CVC4/CVC4/issues/3272 Fixed
+https://github.com/CVC4/CVC4/issues/3247 Fixed
+https://github.com/CVC4/CVC4/issues/3217 Fixed
+https://github.com/CVC4/CVC4/issues/3203 Fixed
+https://github.com/CVC4/CVC4/issues/3106 Confirmed

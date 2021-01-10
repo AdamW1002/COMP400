@@ -1,0 +1,819 @@
+https://github.com/Z3Prover/z3/issues/4765 Dup
+https://github.com/Z3Prover/z3/issues/4758 Dup
+https://github.com/Z3Prover/z3/issues/4744 Fixed
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-694770925 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-694636895 Reported
+https://github.com/Z3Prover/z3/issues/4655#issuecomment-693786605 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-678005179 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-667189458 Reported
+https://github.com/Z3Prover/z3/issues/4607#issue-669572743 Confirmed
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-664640834 Reported
+https://github.com/Z3Prover/z3/issues/4590#issuecomment-664048612 Fixed
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-664033954 Fixed
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-660500673 Reported
+https://github.com/Z3Prover/z3/issues/4518#issuecomment-657133104 Confirmed
+https://github.com/Z3Prover/z3/issues/4518#issuecomment-651681842 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-651388720 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-647014226 Fixed
+https://github.com/Z3Prover/z3/issues/4518#issuecomment-646055042 Confirmed
+https://github.com/Z3Prover/z3/issues/4518#issue-638850637 Confirmed
+https://github.com/Z3Prover/z3/issues/4461 Fixed
+https://github.com/Z3Prover/z3/issues/4455 Dup
+https://github.com/Z3Prover/z3/issues/4453 Confirmed
+https://github.com/Z3Prover/z3/issues/4422 Confirmed
+https://github.com/Z3Prover/z3/issues/4408 Dup
+https://github.com/Z3Prover/z3/issues/4378 Confirmed
+https://github.com/Z3Prover/z3/issues/4377 Dup
+https://github.com/Z3Prover/z3/issues/4376 Confirmed
+https://github.com/Z3Prover/z3/issues/4374 Confirmed
+https://github.com/Z3Prover/z3/issues/4340 Fixed
+https://github.com/Z3Prover/z3/issues/4339 Confirmed
+https://github.com/Z3Prover/z3/issues/4338 Confirmed
+https://github.com/Z3Prover/z3/issues/4337 Confirmed
+https://github.com/Z3Prover/z3/issues/4314 Fixed
+https://github.com/Z3Prover/z3/issues/4311 Confirmed
+https://github.com/Z3Prover/z3/issues/4300 Dup
+https://github.com/Z3Prover/z3/issues/4299 Dup
+https://github.com/Z3Prover/z3/issues/4280 Confirmed
+https://github.com/Z3Prover/z3/issues/4275 Fixed
+https://github.com/Z3Prover/z3/issues/4273 Fixed
+https://github.com/Z3Prover/z3/issues/4272 Fixed
+https://github.com/Z3Prover/z3/issues/4270 Fixed
+https://github.com/Z3Prover/z3/issues/4269 Dup
+https://github.com/Z3Prover/z3/issues/4258 Dup
+https://github.com/Z3Prover/z3/issues/4246 Fixed
+https://github.com/Z3Prover/z3/issues/4188 Dup
+https://github.com/Z3Prover/z3/issues/4175 Confirmed
+https://github.com/Z3Prover/z3/issues/4150 Won't fix
+https://github.com/Z3Prover/z3/issues/4122 Fixed
+https://github.com/Z3Prover/z3/issues/4104 Fixed
+https://github.com/Z3Prover/z3/issues/4096 Dup
+https://github.com/Z3Prover/z3/issues/4089 Dup
+https://github.com/Z3Prover/z3/issues/4069 Fixed
+https://github.com/Z3Prover/z3/issues/4067 Dup
+https://github.com/Z3Prover/z3/issues/4049 Fixed
+https://github.com/Z3Prover/z3/issues/4040 Fixed
+https://github.com/Z3Prover/z3/issues/4019 Fixed
+https://github.com/Z3Prover/z3/issues/4017 Fixed
+https://github.com/Z3Prover/z3/issues/4015 Dup
+https://github.com/Z3Prover/z3/issues/4014 Dup
+https://github.com/Z3Prover/z3/issues/4006 Fixed
+https://github.com/Z3Prover/z3/issues/3972 Fixed
+https://github.com/Z3Prover/z3/issues/3969 Fixed
+https://github.com/Z3Prover/z3/issues/3968 Won't fix
+https://github.com/Z3Prover/z3/issues/3941 Fixed
+https://github.com/Z3Prover/z3/issues/3935 Fixed
+https://github.com/Z3Prover/z3/issues/3922 Dup
+https://github.com/Z3Prover/z3/issues/3918 Won't fix
+https://github.com/Z3Prover/z3/issues/3914 Dup
+https://github.com/Z3Prover/z3/issues/3896 Fixed
+https://github.com/Z3Prover/z3/issues/3891 Fixed
+https://github.com/Z3Prover/z3/issues/3890 Fixed
+https://github.com/Z3Prover/z3/issues/3886 Fixed
+https://github.com/Z3Prover/z3/issues/3876 Dup
+https://github.com/Z3Prover/z3/issues/3872 Fixed
+https://github.com/Z3Prover/z3/issues/3858 Fixed
+https://github.com/Z3Prover/z3/issues/3820 Fixed
+https://github.com/Z3Prover/z3/issues/3819 Fixed
+https://github.com/Z3Prover/z3/issues/3710 Dup
+https://github.com/Z3Prover/z3/issues/3679 Fixed
+https://github.com/Z3Prover/z3/issues/3487 Fixed
+https://github.com/Z3Prover/z3/issues/3486 Fixed
+https://github.com/Z3Prover/z3/issues/3485 Won't fix
+https://github.com/Z3Prover/z3/issues/3460 Won't fix
+https://github.com/Z3Prover/z3/issues/3457 Fixed
+https://github.com/Z3Prover/z3/issues/3455 Fixed
+https://github.com/Z3Prover/z3/issues/3451 Fixed
+https://github.com/Z3Prover/z3/issues/3446 Won't fix
+https://github.com/Z3Prover/z3/issues/3442 Won't fix
+https://github.com/Z3Prover/z3/issues/3413 Dup
+https://github.com/Z3Prover/z3/issues/3395 Fixed
+https://github.com/Z3Prover/z3/issues/3395 Fixed
+https://github.com/Z3Prover/z3/issues/3378 Fixed
+https://github.com/Z3Prover/z3/issues/3377 Fixed
+https://github.com/Z3Prover/z3/issues/3375 Fixed
+https://github.com/Z3Prover/z3/issues/3366 Reported
+https://github.com/Z3Prover/z3/issues/3300 Fixed
+https://github.com/Z3Prover/z3/issues/3262 Won't fix
+https://github.com/Z3Prover/z3/issues/3227 Won't fix
+https://github.com/Z3Prover/z3/issues/3225 Fixed
+https://github.com/Z3Prover/z3/issues/3222 Won't fix
+https://github.com/Z3Prover/z3/issues/3212 Fixed
+https://github.com/Z3Prover/z3/issues/3164 Fixed
+https://github.com/Z3Prover/z3/issues/3157 Fixed
+https://github.com/Z3Prover/z3/issues/3128 Fixed
+https://github.com/Z3Prover/z3/issues/3107 Fixed
+https://github.com/Z3Prover/z3/issues/3106 Fixed
+https://github.com/Z3Prover/z3/issues/3098 Won't fix
+https://github.com/Z3Prover/z3/issues/3038 Fixed
+https://github.com/Z3Prover/z3/issues/3028 Fixed
+https://github.com/Z3Prover/z3/issues/3023 Fixed
+https://github.com/Z3Prover/z3/issues/2975 Fixed
+https://github.com/Z3Prover/z3/issues/2974 Fixed
+https://github.com/Z3Prover/z3/issues/2965 Fixed
+https://github.com/Z3Prover/z3/issues/2968 Fixed
+https://github.com/Z3Prover/z3/issues/2967 Fixed
+https://github.com/Z3Prover/z3/issues/2957 Fixed
+https://github.com/Z3Prover/z3/issues/2860 Dup
+https://github.com/Z3Prover/z3/issues/2838 Fixed
+https://github.com/Z3Prover/z3/issues/2832 Fixed
+https://github.com/Z3Prover/z3/issues/2808 Fixed
+https://github.com/Z3Prover/z3/issues/2799 Dup
+https://github.com/Z3Prover/z3/issues/2796 Fixed
+https://github.com/Z3Prover/z3/issues/2777 Fixed
+https://github.com/Z3Prover/z3/issues/2768 Fixed
+https://github.com/Z3Prover/z3/issues/2752 Fixed
+https://github.com/Z3Prover/z3/issues/2699 Fixed
+https://github.com/Z3Prover/z3/issues/2680 Confirmed
+https://github.com/Z3Prover/z3/issues/2717 Fixed
+https://github.com/Z3Prover/z3/issues/2715 Fixed
+https://github.com/Z3Prover/z3/issues/2678 Fixed
+https://github.com/Z3Prover/z3/issues/2592 Fixed
+Solution Soundness
+https://github.com/Z3Prover/z3/issues/4655 Reported
+https://github.com/Z3Prover/z3/issues/4655#issue-683221539 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-678010014 Reported
+https://github.com/Z3Prover/z3/issues/4607#issuecomment-667066233 Confirmed
+https://github.com/Z3Prover/z3/issues/1051 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-648218012 Reported
+https://github.com/Z3Prover/z3/issues/4428 Fixed
+https://github.com/Z3Prover/z3/issues/4423 Fixed
+https://github.com/Z3Prover/z3/issues/4421 Dup
+https://github.com/Z3Prover/z3/issues/4417 Confirmed
+https://github.com/Z3Prover/z3/issues/4416 Confirmed
+https://github.com/Z3Prover/z3/issues/4410 Confirmed
+https://github.com/Z3Prover/z3/issues/4409 Confirmed
+https://github.com/Z3Prover/z3/issues/4391 Confirmed
+https://github.com/Z3Prover/z3/issues/4351 Confirmed
+https://github.com/Z3Prover/z3/issues/4307 Confirmed
+https://github.com/Z3Prover/z3/issues/4306 Confirmed
+https://github.com/Z3Prover/z3/issues/4302 Fixed
+https://github.com/Z3Prover/z3/issues/4219 Fixed
+https://github.com/Z3Prover/z3/issues/4162 Fixed
+https://github.com/Z3Prover/z3/issues/4144 Fixed
+https://github.com/Z3Prover/z3/issues/4129 Dup
+https://github.com/Z3Prover/z3/issues/4123 Fixed
+https://github.com/Z3Prover/z3/issues/4102 Fixed
+https://github.com/Z3Prover/z3/issues/4100 Fixed
+https://github.com/Z3Prover/z3/issues/4071 Fixed
+https://github.com/Z3Prover/z3/issues/4065 Fixed
+https://github.com/Z3Prover/z3/issues/4042 Dup
+https://github.com/Z3Prover/z3/issues/4041 Fixed
+https://github.com/Z3Prover/z3/issues/4036 Fixed
+https://github.com/Z3Prover/z3/issues/4029 Fixed
+https://github.com/Z3Prover/z3/issues/4018 Dup
+https://github.com/Z3Prover/z3/issues/4008 Confirmed
+https://github.com/Z3Prover/z3/issues/4007 Dup
+https://github.com/Z3Prover/z3/issues/3994 Fixed
+https://github.com/Z3Prover/z3/issues/3992 Fixed
+https://github.com/Z3Prover/z3/issues/3973 Fixed
+https://github.com/Z3Prover/z3/issues/3971 Fixed
+https://github.com/Z3Prover/z3/issues/3970 Fixed
+https://github.com/Z3Prover/z3/issues/3960 Fixed
+https://github.com/Z3Prover/z3/issues/3942 Dup
+https://github.com/Z3Prover/z3/issues/3917 Fixed
+https://github.com/Z3Prover/z3/issues/3916 Won't fix
+https://github.com/Z3Prover/z3/issues/3913 Fixed
+https://github.com/Z3Prover/z3/issues/3911 Fixed
+https://github.com/Z3Prover/z3/issues/3902 Won't fix
+https://github.com/Z3Prover/z3/issues/3856 Won't fix
+https://github.com/Z3Prover/z3/issues/3850 Fixed
+https://github.com/Z3Prover/z3/issues/3816 Fixed
+https://github.com/Z3Prover/z3/issues/3811 Fixed
+https://github.com/Z3Prover/z3/issues/3792 Fixed
+https://github.com/Z3Prover/z3/issues/3778 Fixed
+https://github.com/Z3Prover/z3/issues/3732 Dup
+https://github.com/Z3Prover/z3/issues/3695 Fixed
+https://github.com/Z3Prover/z3/issues/3651 Won't fix
+https://github.com/Z3Prover/z3/issues/3629 Dup
+https://github.com/Z3Prover/z3/issues/3546 Won't fix
+https://github.com/Z3Prover/z3/issues/3501 Dup
+https://github.com/Z3Prover/z3/issues/3497 Dup
+https://github.com/Z3Prover/z3/issues/3484 Dup
+https://github.com/Z3Prover/z3/issues/3478 Won't fix
+https://github.com/Z3Prover/z3/issues/3447 Fixed
+https://github.com/Z3Prover/z3/issues/3415 Fixed
+https://github.com/Z3Prover/z3/issues/3365 Won't fix
+https://github.com/Z3Prover/z3/issues/3359 Dup
+https://github.com/Z3Prover/z3/issues/3298 Fixed
+https://github.com/Z3Prover/z3/issues/3270 Won't fix
+https://github.com/Z3Prover/z3/issues/3266 Won't fix
+https://github.com/Z3Prover/z3/issues/3263 Fixed
+https://github.com/Z3Prover/z3/issues/3250 Won't fix
+https://github.com/Z3Prover/z3/issues/3210 Fixed
+https://github.com/Z3Prover/z3/issues/3197 Dup
+https://github.com/Z3Prover/z3/issues/3185 Fixed
+https://github.com/Z3Prover/z3/issues/3183 Fixed
+https://github.com/Z3Prover/z3/issues/3127 Fixed
+https://github.com/Z3Prover/z3/issues/3103 Fixed
+https://github.com/Z3Prover/z3/issues/3047 Confirmed
+https://github.com/Z3Prover/z3/issues/3005 Won't fix
+https://github.com/Z3Prover/z3/issues/2978 Fixed
+https://github.com/Z3Prover/z3/issues/2952 Won't fix
+https://github.com/Z3Prover/z3/issues/2946 Fixed
+https://github.com/Z3Prover/z3/issues/2932 Won't fix
+https://github.com/Z3Prover/z3/issues/2923 Won't fix
+https://github.com/Z3Prover/z3/issues/2922 Won't fix
+https://github.com/Z3Prover/z3/issues/2920 Fixed
+https://github.com/Z3Prover/z3/issues/2917 Won't fix
+https://github.com/Z3Prover/z3/issues/2896 Dup
+https://github.com/Z3Prover/z3/issues/2894 Fixed
+https://github.com/Z3Prover/z3/issues/2870 Won't fix
+https://github.com/Z3Prover/z3/issues/2650 Confirmed
+https://github.com/Z3Prover/z3/issues/2852 Fixed
+https://github.com/Z3Prover/z3/issues/2840 Fixed
+https://github.com/Z3Prover/z3/issues/2836 Fixed
+https://github.com/Z3Prover/z3/issues/2830 Fixed
+https://github.com/Z3Prover/z3/issues/2823 Dup
+https://github.com/Z3Prover/z3/issues/2787 Fixed
+https://github.com/Z3Prover/z3/issues/2783 Confirmed
+https://github.com/Z3Prover/z3/issues/2766 Fixed
+https://github.com/Z3Prover/z3/issues/2742 Fixed
+https://github.com/Z3Prover/z3/issues/2736 Fixed
+https://github.com/Z3Prover/z3/issues/2721 Fixed
+https://github.com/Z3Prover/z3/issues/2733 Fixed
+https://github.com/Z3Prover/z3/issues/2658 Dup
+https://github.com/Z3Prover/z3/issues/2657 Confirmed
+https://github.com/Z3Prover/z3/issues/2650 Confirmed
+https://github.com/Z3Prover/z3/issues/2608 Confirmed
+https://github.com/Z3Prover/z3/issues/2597 Fixed
+https://github.com/Z3Prover/z3/issues/2593 Fixed
+Others
+https://github.com/Z3Prover/z3/issues/4738#issuecomment-713249285 Reported
+https://github.com/Z3Prover/z3/issues/4738#issuecomment-710498935 Reported
+https://github.com/Z3Prover/z3/issues/4738#issue-723487417 Reported
+https://github.com/Z3Prover/z3/issues/4736 Fixed
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-706538362 Reported
+https://github.com/CVC4/CVC4/issues/5234 Confirmed
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-706486686 Reported
+https://github.com/Z3Prover/z3/issues/4532 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-704004051 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-704003263 Reported
+https://github.com/Z3Prover/z3/issues/4655#issuecomment-703608189 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-703363352 Reported
+https://github.com/Z3Prover/z3/issues/4655#issuecomment-703363719 Reported
+https://github.com/Z3Prover/z3/issues/4655#issuecomment-697310581 Reported
+https://github.com/Z3Prover/z3/issues/4655 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-697079123 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-696044712 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-696043836 Reported
+https://github.com/Z3Prover/z3/issues/4655#issuecomment-693786862 Reported
+https://github.com/Z3Prover/z3/issues/4655#issuecomment-678010493 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-678013046 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-677822476 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-677821793 Reported
+https://github.com/Z3Prover/z3/issues/4607#issuecomment-677814981 Reported
+https://github.com/Z3Prover/z3/issues/4613 Fixed
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-667193930 Reported
+https://github.com/Z3Prover/z3/issues/4607#issuecomment-667191511 Confirmed
+https://github.com/Z3Prover/z3/issues/4607#issuecomment-667190922 Confirmed
+https://github.com/Z3Prover/z3/issues/4607#issuecomment-667185251 Confirmed
+https://github.com/Z3Prover/z3/issues/4607#issuecomment-667010751 Confirmed
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-665957789 Confirmed
+https://github.com/Z3Prover/z3/issues/4518#issuecomment-665944279 Fixed
+https://github.com/Z3Prover/z3/issues/4518#issuecomment-665941712 Confirmed
+https://github.com/Z3Prover/z3/issues/4518#issuecomment-665939105 Confirmed
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-664036196 Fixed
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-664034976 Fixed
+https://github.com/Z3Prover/z3/issues/4518#issuecomment-659706935 Fixed
+https://github.com/Z3Prover/z3/issues/4518#issuecomment-659704281 Fixed
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-648047504 Reported
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-647158689 Fixed
+https://github.com/Z3Prover/z3/issues/4532#issuecomment-647026126 Fixed
+https://github.com/Z3Prover/z3/issues/4532#issue-641299448 Reported
+https://github.com/Z3Prover/z3/issues/4450 Fixed
+https://github.com/Z3Prover/z3/issues/4448 Fixed
+https://github.com/Z3Prover/z3/issues/4447 Fixed
+https://github.com/Z3Prover/z3/issues/4446 Won't fix
+https://github.com/Z3Prover/z3/issues/4437 Fixed
+https://github.com/Z3Prover/z3/issues/4432 Fixed
+https://github.com/Z3Prover/z3/issues/4429 Fixed
+https://github.com/Z3Prover/z3/issues/4424 Fixed
+https://github.com/Z3Prover/z3/issues/4419 Confirmed
+https://github.com/Z3Prover/z3/issues/4418 Reported
+https://github.com/Z3Prover/z3/issues/4412 Fixed
+https://github.com/Z3Prover/z3/issues/4406 Fixed
+https://github.com/Z3Prover/z3/issues/4396 Won't fix
+https://github.com/Z3Prover/z3/issues/4395 Won't fix
+https://github.com/Z3Prover/z3/issues/4393 Fixed
+https://github.com/Z3Prover/z3/issues/4392 Confirmed
+https://github.com/Z3Prover/z3/issues/4388 Won't fix
+https://github.com/Z3Prover/z3/issues/4387 Fixed
+https://github.com/Z3Prover/z3/issues/4373 Confirmed
+https://github.com/Z3Prover/z3/issues/4371 Confirmed
+https://github.com/Z3Prover/z3/issues/4357 Confirmed
+https://github.com/Z3Prover/z3/issues/4355 Fixed
+https://github.com/Z3Prover/z3/issues/4354 Confirmed
+https://github.com/Z3Prover/z3/issues/4353 Confirmed
+https://github.com/Z3Prover/z3/issues/4352 Dup
+https://github.com/Z3Prover/z3/issues/4350 Fixed
+https://github.com/Z3Prover/z3/issues/4349 Fixed
+https://github.com/Z3Prover/z3/issues/4344 Fixed
+https://github.com/Z3Prover/z3/issues/4343 Confirmed
+https://github.com/Z3Prover/z3/issues/4336 Fixed
+https://github.com/Z3Prover/z3/issues/4315 Won't fix
+https://github.com/Z3Prover/z3/issues/4310 Confirmed
+https://github.com/Z3Prover/z3/issues/4309 Fixed
+https://github.com/Z3Prover/z3/issues/4308 Fixed
+https://github.com/Z3Prover/z3/issues/4305 Reported
+https://github.com/Z3Prover/z3/issues/4304 Fixed
+https://github.com/Z3Prover/z3/issues/4303 Fixed
+https://github.com/Z3Prover/z3/issues/4301 Dup
+https://github.com/Z3Prover/z3/issues/4297 Dup
+https://github.com/Z3Prover/z3/issues/4296 Fixed
+https://github.com/Z3Prover/z3/issues/4295 Fixed
+https://github.com/Z3Prover/z3/issues/4279 Fixed
+https://github.com/Z3Prover/z3/issues/4266 Fixed
+https://github.com/Z3Prover/z3/issues/4263 Won't fix
+https://github.com/Z3Prover/z3/issues/4262 Fixed
+https://github.com/Z3Prover/z3/issues/4260 Fixed
+https://github.com/Z3Prover/z3/issues/4259 Fixed
+https://github.com/Z3Prover/z3/issues/4256 Won't fix
+https://github.com/Z3Prover/z3/issues/4251 Fixed
+https://github.com/Z3Prover/z3/issues/4250 Fixed
+https://github.com/Z3Prover/z3/issues/4225 Fixed
+https://github.com/Z3Prover/z3/issues/4217 Dup
+https://github.com/Z3Prover/z3/issues/4213 Dup
+https://github.com/Z3Prover/z3/issues/4211 Confirmed
+https://github.com/Z3Prover/z3/issues/4201 Won't fix
+https://github.com/Z3Prover/z3/issues/4200 Fixed
+https://github.com/Z3Prover/z3/issues/4189 Dup
+https://github.com/Z3Prover/z3/issues/4187 Fixed
+https://github.com/Z3Prover/z3/issues/4185 Won't fix
+https://github.com/Z3Prover/z3/issues/4180 Fixed
+https://github.com/Z3Prover/z3/issues/4177 Confirmed
+https://github.com/Z3Prover/z3/issues/4173 Won't fix
+https://github.com/Z3Prover/z3/issues/4171 Fixed
+https://github.com/Z3Prover/z3/issues/4169 Fixed
+https://github.com/Z3Prover/z3/issues/4166 Fixed
+https://github.com/Z3Prover/z3/issues/4165 Fixed
+https://github.com/Z3Prover/z3/issues/4163 Fixed
+https://github.com/Z3Prover/z3/issues/4156 Fixed
+https://github.com/Z3Prover/z3/issues/4155 Fixed
+https://github.com/Z3Prover/z3/issues/4154 Fixed
+https://github.com/Z3Prover/z3/issues/4149 Fixed
+https://github.com/Z3Prover/z3/issues/4146 Fixed
+https://github.com/Z3Prover/z3/issues/4145 Fixed
+https://github.com/Z3Prover/z3/issues/4128 Fixed
+https://github.com/Z3Prover/z3/issues/4127 Fixed
+https://github.com/Z3Prover/z3/issues/4126 Won't fix
+https://github.com/Z3Prover/z3/issues/4125 Fixed
+https://github.com/Z3Prover/z3/issues/4124 Dup
+https://github.com/Z3Prover/z3/issues/4121 Won't fix
+https://github.com/Z3Prover/z3/issues/4120 Fixed
+https://github.com/Z3Prover/z3/issues/4119 Won't fix
+https://github.com/Z3Prover/z3/issues/4114 Fixed
+https://github.com/Z3Prover/z3/issues/4113 Fixed
+https://github.com/Z3Prover/z3/issues/4112 Fixed
+https://github.com/Z3Prover/z3/issues/4108 Fixed
+https://github.com/Z3Prover/z3/issues/4106 Fixed
+https://github.com/Z3Prover/z3/issues/4099 Fixed
+https://github.com/Z3Prover/z3/issues/4098 Fixed
+https://github.com/Z3Prover/z3/issues/4097 Fixed
+https://github.com/Z3Prover/z3/issues/4091 Won't fix
+https://github.com/Z3Prover/z3/issues/4090 Fixed
+https://github.com/Z3Prover/z3/issues/4088 Fixed
+https://github.com/Z3Prover/z3/issues/4087 Dup
+https://github.com/Z3Prover/z3/issues/4084 Fixed
+https://github.com/Z3Prover/z3/issues/4083 Fixed
+https://github.com/Z3Prover/z3/issues/4082 Fixed
+https://github.com/Z3Prover/z3/issues/4081 Fixed
+https://github.com/Z3Prover/z3/issues/4073 Fixed
+https://github.com/Z3Prover/z3/issues/4060 Fixed
+https://github.com/Z3Prover/z3/issues/4053 Fixed
+https://github.com/Z3Prover/z3/issues/4050 Fixed
+https://github.com/Z3Prover/z3/issues/4044 Fixed
+https://github.com/Z3Prover/z3/issues/4031 Fixed
+https://github.com/Z3Prover/z3/issues/4030 Fixed
+https://github.com/Z3Prover/z3/issues/4027 Dup
+https://github.com/Z3Prover/z3/issues/4026 Fixed
+https://github.com/Z3Prover/z3/issues/4023 Dup
+https://github.com/Z3Prover/z3/issues/4022 Dup
+https://github.com/Z3Prover/z3/issues/4021 Fixed
+https://github.com/Z3Prover/z3/issues/4020 Fixed
+https://github.com/Z3Prover/z3/issues/4016 Dup
+https://github.com/Z3Prover/z3/issues/4013 Fixed
+https://github.com/Z3Prover/z3/issues/4010 Fixed
+https://github.com/Z3Prover/z3/issues/4009 Fixed
+https://github.com/Z3Prover/z3/issues/3999 Fixed
+https://github.com/Z3Prover/z3/issues/3998 Won't fix
+https://github.com/Z3Prover/z3/issues/3991 Fixed
+https://github.com/Z3Prover/z3/issues/3984 Fixed
+https://github.com/Z3Prover/z3/issues/3978 Fixed
+https://github.com/Z3Prover/z3/issues/3977 Dup
+https://github.com/Z3Prover/z3/issues/3976 Fixed
+https://github.com/Z3Prover/z3/issues/3975 Fixed
+https://github.com/Z3Prover/z3/issues/3961 Fixed
+https://github.com/Z3Prover/z3/issues/3959 Fixed
+https://github.com/Z3Prover/z3/issues/3958 Fixed
+https://github.com/Z3Prover/z3/issues/3957 Fixed
+https://github.com/Z3Prover/z3/issues/3955 Fixed
+https://github.com/Z3Prover/z3/issues/3943 Fixed
+https://github.com/Z3Prover/z3/issues/3937 Won't fix
+https://github.com/Z3Prover/z3/issues/3936 Fixed
+https://github.com/Z3Prover/z3/issues/3929 Fixed
+https://github.com/Z3Prover/z3/issues/3928 Fixed
+https://github.com/Z3Prover/z3/issues/3919 Fixed
+https://github.com/Z3Prover/z3/issues/3909 Fixed
+https://github.com/Z3Prover/z3/issues/3903 Fixed
+https://github.com/Z3Prover/z3/issues/3899 Fixed
+https://github.com/Z3Prover/z3/issues/3898 Fixed
+https://github.com/Z3Prover/z3/issues/3897 Fixed
+https://github.com/Z3Prover/z3/issues/3895 Dup
+https://github.com/Z3Prover/z3/issues/3894 Won't fix
+https://github.com/Z3Prover/z3/issues/3892 Fixed
+https://github.com/Z3Prover/z3/issues/3889 Fixed
+https://github.com/Z3Prover/z3/issues/3888 Fixed
+https://github.com/Z3Prover/z3/issues/3887 Fixed
+https://github.com/Z3Prover/z3/issues/3877 Fixed
+https://github.com/Z3Prover/z3/issues/3874 Fixed
+https://github.com/Z3Prover/z3/issues/3873 Won't fix
+https://github.com/Z3Prover/z3/issues/3871 Fixed
+https://github.com/Z3Prover/z3/issues/3870 Fixed
+https://github.com/Z3Prover/z3/issues/3869 Fixed
+https://github.com/Z3Prover/z3/issues/3866 Won't fix
+https://github.com/Z3Prover/z3/issues/3865 Won't fix
+https://github.com/Z3Prover/z3/issues/3863 Fixed
+https://github.com/Z3Prover/z3/issues/3862 Dup
+https://github.com/Z3Prover/z3/issues/3861 Fixed
+https://github.com/Z3Prover/z3/issues/3859 Won't fix
+https://github.com/Z3Prover/z3/issues/3857 Fixed
+https://github.com/Z3Prover/z3/issues/3849 Fixed
+https://github.com/Z3Prover/z3/issues/3846 Fixed
+https://github.com/Z3Prover/z3/issues/3845 Won't fix
+https://github.com/Z3Prover/z3/issues/3843 Fixed
+https://github.com/Z3Prover/z3/issues/3839 Won't fix
+https://github.com/Z3Prover/z3/issues/3836 Fixed
+https://github.com/Z3Prover/z3/issues/3833 Fixed
+https://github.com/Z3Prover/z3/issues/3832 Fixed
+https://github.com/Z3Prover/z3/issues/3829 Fixed
+https://github.com/Z3Prover/z3/issues/3827 Fixed
+https://github.com/Z3Prover/z3/issues/3826 Fixed
+https://github.com/Z3Prover/z3/issues/3815 Fixed
+https://github.com/Z3Prover/z3/issues/3813 Dup
+https://github.com/Z3Prover/z3/issues/3810 Won't fix
+https://github.com/Z3Prover/z3/issues/3807 Won't fix
+https://github.com/Z3Prover/z3/issues/3794 Confirmed
+https://github.com/Z3Prover/z3/issues/3793 Fixed
+https://github.com/Z3Prover/z3/issues/3791 Fixed
+https://github.com/Z3Prover/z3/issues/3790 Fixed
+https://github.com/Z3Prover/z3/issues/3777 Fixed
+https://github.com/Z3Prover/z3/issues/3776 Fixed
+https://github.com/Z3Prover/z3/issues/3775 Fixed
+https://github.com/Z3Prover/z3/issues/3774 Fixed
+https://github.com/Z3Prover/z3/issues/3773 Confirmed
+https://github.com/Z3Prover/z3/issues/3772 Fixed
+https://github.com/Z3Prover/z3/issues/3771 Fixed
+https://github.com/Z3Prover/z3/issues/3770 Confirmed
+https://github.com/Z3Prover/z3/issues/3758 Fixed
+https://github.com/Z3Prover/z3/issues/3754 Fixed
+https://github.com/Z3Prover/z3/issues/3750 Fixed
+https://github.com/Z3Prover/z3/issues/3749 Fixed
+https://github.com/Z3Prover/z3/issues/3748 Fixed
+https://github.com/Z3Prover/z3/issues/3747 Fixed
+https://github.com/Z3Prover/z3/issues/3746 Won't fix
+https://github.com/Z3Prover/z3/issues/3744 Fixed
+https://github.com/Z3Prover/z3/issues/3743 Fixed
+https://github.com/Z3Prover/z3/issues/3739 Fixed
+https://github.com/Z3Prover/z3/issues/3735 Fixed
+https://github.com/Z3Prover/z3/issues/3734 Fixed
+https://github.com/Z3Prover/z3/issues/3733 Fixed
+https://github.com/Z3Prover/z3/issues/3722 Won't fix
+https://github.com/Z3Prover/z3/issues/3720 Dup
+https://github.com/Z3Prover/z3/issues/3718 Fixed
+https://github.com/Z3Prover/z3/issues/3712 Won't fix
+https://github.com/Z3Prover/z3/issues/3705 Fixed
+https://github.com/Z3Prover/z3/issues/3704 Fixed
+https://github.com/Z3Prover/z3/issues/3700 Fixed
+https://github.com/Z3Prover/z3/issues/3699 Fixed
+https://github.com/Z3Prover/z3/issues/3689 Fixed
+https://github.com/Z3Prover/z3/issues/3688 Fixed
+https://github.com/Z3Prover/z3/issues/3686 Fixed
+https://github.com/Z3Prover/z3/issues/3685 Fixed
+https://github.com/Z3Prover/z3/issues/3684 Won't fix
+https://github.com/Z3Prover/z3/issues/3683 Fixed
+https://github.com/Z3Prover/z3/issues/3682 Fixed
+https://github.com/Z3Prover/z3/issues/3681 Won't fix
+https://github.com/Z3Prover/z3/issues/3680 Fixed
+https://github.com/Z3Prover/z3/issues/3677 Won't fix
+https://github.com/Z3Prover/z3/issues/3676 Dup
+https://github.com/Z3Prover/z3/issues/3675 Fixed
+https://github.com/Z3Prover/z3/issues/3670 Fixed
+https://github.com/Z3Prover/z3/issues/3669 Fixed
+https://github.com/Z3Prover/z3/issues/3665 Won't fix
+https://github.com/Z3Prover/z3/issues/3663 Fixed
+https://github.com/Z3Prover/z3/issues/3662 Won't fix
+https://github.com/Z3Prover/z3/issues/3661 Won't fix
+https://github.com/Z3Prover/z3/issues/3660 Fixed
+https://github.com/Z3Prover/z3/issues/3657 Fixed
+https://github.com/Z3Prover/z3/issues/3656 Won't fix
+https://github.com/Z3Prover/z3/issues/3654 Fixed
+https://github.com/Z3Prover/z3/issues/3652 Dup
+https://github.com/Z3Prover/z3/issues/3648 Fixed
+https://github.com/Z3Prover/z3/issues/3628 Won't fix
+https://github.com/Z3Prover/z3/issues/3627 Dup
+https://github.com/Z3Prover/z3/issues/3625 Fixed
+https://github.com/Z3Prover/z3/issues/3624 Won't fix
+https://github.com/Z3Prover/z3/issues/3618 Fixed
+https://github.com/Z3Prover/z3/issues/3597 Dup
+https://github.com/Z3Prover/z3/issues/3594 Fixed
+https://github.com/Z3Prover/z3/issues/3592 Dup
+https://github.com/Z3Prover/z3/issues/3589 Dup
+https://github.com/Z3Prover/z3/issues/3587 Fixed
+https://github.com/Z3Prover/z3/issues/3586 Won't fix
+https://github.com/Z3Prover/z3/issues/3585 Won't fix
+https://github.com/Z3Prover/z3/issues/3584 Fixed
+https://github.com/Z3Prover/z3/issues/3582 Dup
+https://github.com/Z3Prover/z3/issues/3579 Won't fix
+https://github.com/Z3Prover/z3/issues/3576 Fixed
+https://github.com/Z3Prover/z3/issues/3575 Fixed
+https://github.com/Z3Prover/z3/issues/3574 Dup
+https://github.com/Z3Prover/z3/issues/3572 Fixed
+https://github.com/Z3Prover/z3/issues/3570 Won't fix
+https://github.com/Z3Prover/z3/issues/3557 Fixed
+https://github.com/Z3Prover/z3/issues/3556 Won't fix
+https://github.com/Z3Prover/z3/issues/3555 Fixed
+https://github.com/Z3Prover/z3/issues/3554 Fixed
+https://github.com/Z3Prover/z3/issues/3552 Won't fix
+https://github.com/Z3Prover/z3/issues/3551 Dup
+https://github.com/Z3Prover/z3/issues/3550 Fixed
+https://github.com/Z3Prover/z3/issues/3549 Dup
+https://github.com/Z3Prover/z3/issues/3548 Fixed
+https://github.com/Z3Prover/z3/issues/3547 Won't fix
+https://github.com/Z3Prover/z3/issues/3538 Fixed
+https://github.com/Z3Prover/z3/issues/3523 Fixed
+https://github.com/Z3Prover/z3/issues/3522 Fixed
+https://github.com/Z3Prover/z3/issues/3519 Fixed
+https://github.com/Z3Prover/z3/issues/3516 Fixed
+https://github.com/Z3Prover/z3/issues/3514 Fixed
+https://github.com/Z3Prover/z3/issues/3500 Fixed
+https://github.com/Z3Prover/z3/issues/3499 Fixed
+https://github.com/Z3Prover/z3/issues/3496 Dup
+https://github.com/Z3Prover/z3/issues/3495 Fixed
+https://github.com/Z3Prover/z3/issues/3483 Fixed
+https://github.com/Z3Prover/z3/issues/3482 Fixed
+https://github.com/Z3Prover/z3/issues/3481 Dup
+https://github.com/Z3Prover/z3/issues/3472 Won't fix
+https://github.com/Z3Prover/z3/issues/3471 Won't fix
+https://github.com/Z3Prover/z3/issues/3468 Dup
+https://github.com/Z3Prover/z3/issues/3463 Won't fix
+https://github.com/Z3Prover/z3/issues/3462 Won't fix
+https://github.com/Z3Prover/z3/issues/3459 Fixed
+https://github.com/Z3Prover/z3/issues/3458 Fixed
+https://github.com/Z3Prover/z3/issues/3456 Won't fix
+https://github.com/Z3Prover/z3/issues/3454 Won't fix
+https://github.com/Z3Prover/z3/issues/3453 Dup
+https://github.com/Z3Prover/z3/issues/3452 Won't fix
+https://github.com/Z3Prover/z3/issues/3448 Dup
+https://github.com/Z3Prover/z3/issues/3441 Won't fix
+https://github.com/Z3Prover/z3/issues/3435 Fixed
+https://github.com/Z3Prover/z3/issues/3434 Fixed
+https://github.com/Z3Prover/z3/issues/3433 Fixed
+https://github.com/Z3Prover/z3/issues/3430 Fixed
+https://github.com/Z3Prover/z3/issues/3416 Fixed
+https://github.com/Z3Prover/z3/issues/3410 Won't fix
+https://github.com/Z3Prover/z3/issues/3406 Won't fix
+https://github.com/Z3Prover/z3/issues/3403 Fixed
+https://github.com/Z3Prover/z3/issues/3399 Won't fix
+https://github.com/Z3Prover/z3/issues/3393 Fixed
+https://github.com/Z3Prover/z3/issues/3389 Fixed
+https://github.com/Z3Prover/z3/issues/3381 Dup
+https://github.com/Z3Prover/z3/issues/3380 Dup
+https://github.com/Z3Prover/z3/issues/3367 Dup
+https://github.com/Z3Prover/z3/issues/3340 Dup
+https://github.com/Z3Prover/z3/issues/3339 Won't fix
+https://github.com/Z3Prover/z3/issues/3338 Fixed
+https://github.com/Z3Prover/z3/issues/3334 Fixed
+https://github.com/Z3Prover/z3/issues/3331 Fixed
+https://github.com/Z3Prover/z3/issues/3324 Won't fix
+https://github.com/Z3Prover/z3/issues/3323 Won't fix
+https://github.com/Z3Prover/z3/issues/3322 Fixed
+https://github.com/Z3Prover/z3/issues/3320 Fixed
+https://github.com/Z3Prover/z3/issues/3315 Won't fix
+https://github.com/Z3Prover/z3/issues/3314 Fixed
+https://github.com/Z3Prover/z3/issues/3313 Dup
+https://github.com/Z3Prover/z3/issues/3312 Fixed
+https://github.com/Z3Prover/z3/issues/3311 Fixed
+https://github.com/Z3Prover/z3/issues/3301 Fixed
+https://github.com/Z3Prover/z3/issues/3299 Fixed
+https://github.com/Z3Prover/z3/issues/3297 Fixed
+https://github.com/Z3Prover/z3/issues/3294 Fixed
+https://github.com/Z3Prover/z3/issues/3287 Dup
+https://github.com/Z3Prover/z3/issues/3286 Fixed
+https://github.com/Z3Prover/z3/issues/3285 Dup
+https://github.com/Z3Prover/z3/issues/3273 Fixed
+https://github.com/Z3Prover/z3/issues/3269 Fixed
+https://github.com/Z3Prover/z3/issues/3268 Fixed
+https://github.com/Z3Prover/z3/issues/3261 Fixed
+https://github.com/Z3Prover/z3/issues/3254 Fixed
+https://github.com/Z3Prover/z3/issues/3238 Fixed
+https://github.com/Z3Prover/z3/issues/3234 Won't fix
+https://github.com/Z3Prover/z3/issues/3233 Fixed
+https://github.com/Z3Prover/z3/issues/3232 Won't fix
+https://github.com/Z3Prover/z3/issues/3230 Fixed
+https://github.com/Z3Prover/z3/issues/3229 Dup
+https://github.com/Z3Prover/z3/issues/3226 Fixed
+https://github.com/Z3Prover/z3/issues/3224 Fixed
+https://github.com/Z3Prover/z3/issues/3223 Fixed
+https://github.com/Z3Prover/z3/issues/3221 Fixed
+https://github.com/Z3Prover/z3/issues/3220 Fixed
+https://github.com/Z3Prover/z3/issues/3219 Fixed
+https://github.com/Z3Prover/z3/issues/3205 Fixed
+https://github.com/Z3Prover/z3/issues/3204 Fixed
+https://github.com/Z3Prover/z3/issues/3203 Fixed
+https://github.com/Z3Prover/z3/issues/3199 Fixed
+https://github.com/Z3Prover/z3/issues/3188 Fixed
+https://github.com/Z3Prover/z3/issues/3187 Fixed
+https://github.com/Z3Prover/z3/issues/3186 Fixed
+https://github.com/Z3Prover/z3/issues/3183 Fixed
+https://github.com/Z3Prover/z3/issues/3177 Fixed
+https://github.com/Z3Prover/z3/issues/3172 Fixed
+https://github.com/Z3Prover/z3/issues/3163 Fixed
+https://github.com/Z3Prover/z3/issues/3158 Won't fix
+https://github.com/Z3Prover/z3/issues/3156 Fixed
+https://github.com/Z3Prover/z3/issues/3136 Dup
+https://github.com/Z3Prover/z3/issues/3135 Dup
+https://github.com/Z3Prover/z3/issues/3123 Fixed
+https://github.com/Z3Prover/z3/issues/3122 Won't fix
+https://github.com/Z3Prover/z3/issues/3118 Fixed
+https://github.com/Z3Prover/z3/issues/3116 Fixed
+https://github.com/Z3Prover/z3/issues/3115 Fixed
+https://github.com/Z3Prover/z3/issues/3114 Won't fix
+https://github.com/Z3Prover/z3/issues/3111 Fixed
+https://github.com/Z3Prover/z3/issues/3110 Fixed
+https://github.com/Z3Prover/z3/issues/3109 Won't fix
+https://github.com/Z3Prover/z3/issues/3108 Fixed
+https://github.com/Z3Prover/z3/issues/3105 Fixed
+https://github.com/Z3Prover/z3/issues/3104 Fixed
+https://github.com/Z3Prover/z3/issues/3101 Fixed
+https://github.com/Z3Prover/z3/issues/3099 Fixed
+https://github.com/Z3Prover/z3/issues/3092 Won't fix
+https://github.com/Z3Prover/z3/issues/3089 Fixed
+https://github.com/Z3Prover/z3/issues/3088 Fixed
+https://github.com/Z3Prover/z3/issues/3087 Fixed
+https://github.com/Z3Prover/z3/issues/3087 Fixed
+https://github.com/Z3Prover/z3/issues/3083 Dup
+https://github.com/Z3Prover/z3/issues/3082 Fixed
+https://github.com/Z3Prover/z3/issues/3081 Fixed
+https://github.com/Z3Prover/z3/issues/3079 Fixed
+https://github.com/Z3Prover/z3/issues/3078 Fixed
+https://github.com/Z3Prover/z3/issues/3077 Confirmed
+https://github.com/Z3Prover/z3/issues/3076 Fixed
+https://github.com/Z3Prover/z3/issues/3075 Fixed
+https://github.com/Z3Prover/z3/issues/3074 Won't fix
+https://github.com/Z3Prover/z3/issues/3069 Confirmed
+https://github.com/Z3Prover/z3/issues/3064 Fixed
+https://github.com/Z3Prover/z3/issues/3063 Fixed
+https://github.com/Z3Prover/z3/issues/3062 Fixed
+https://github.com/Z3Prover/z3/issues/3060 Fixed
+https://github.com/Z3Prover/z3/issues/3057 Fixed
+https://github.com/Z3Prover/z3/issues/3056 Won't fix
+https://github.com/Z3Prover/z3/issues/3055 Fixed
+https://github.com/Z3Prover/z3/issues/3054 Won't fix
+https://github.com/Z3Prover/z3/issues/3049 Won't fix
+https://github.com/Z3Prover/z3/issues/3046 Fixed
+https://github.com/Z3Prover/z3/issues/3045 Fixed
+https://github.com/Z3Prover/z3/issues/3044 Fixed
+https://github.com/Z3Prover/z3/issues/3043 Fixed
+https://github.com/Z3Prover/z3/issues/3042 Fixed
+https://github.com/Z3Prover/z3/issues/3036 Dup
+https://github.com/Z3Prover/z3/issues/3035 Fixed
+https://github.com/Z3Prover/z3/issues/3034 Fixed
+https://github.com/Z3Prover/z3/issues/3033 Fixed
+https://github.com/Z3Prover/z3/issues/3041 Fixed
+https://github.com/Z3Prover/z3/issues/3039 Fixed
+https://github.com/Z3Prover/z3/issues/3029 Fixed
+https://github.com/Z3Prover/z3/issues/3027 Fixed
+https://github.com/Z3Prover/z3/issues/3026 Fixed
+https://github.com/Z3Prover/z3/issues/3025 Dup
+https://github.com/Z3Prover/z3/issues/3022 Fixed
+https://github.com/Z3Prover/z3/issues/3021 Fixed
+https://github.com/Z3Prover/z3/issues/3020 Fixed
+https://github.com/Z3Prover/z3/issues/3019 Fixed
+https://github.com/Z3Prover/z3/issues/3018 Fixed
+https://github.com/Z3Prover/z3/issues/3012 Fixed
+https://github.com/Z3Prover/z3/issues/3011 Fixed
+https://github.com/Z3Prover/z3/issues/3010 Fixed
+https://github.com/Z3Prover/z3/issues/3009 Fixed
+https://github.com/Z3Prover/z3/issues/3006 Fixed
+https://github.com/Z3Prover/z3/issues/3004 Fixed
+https://github.com/Z3Prover/z3/issues/3003 Fixed
+https://github.com/Z3Prover/z3/issues/3001 Fixed
+https://github.com/Z3Prover/z3/issues/2996 Fixed
+https://github.com/Z3Prover/z3/issues/2991 Fixed
+https://github.com/Z3Prover/z3/issues/2990 Fixed
+https://github.com/Z3Prover/z3/issues/2989 Fixed
+https://github.com/Z3Prover/z3/issues/2982 Fixed
+https://github.com/Z3Prover/z3/issues/2981 Fixed
+https://github.com/Z3Prover/z3/issues/2980 Fixed
+https://github.com/Z3Prover/z3/issues/2979 Fixed
+https://github.com/Z3Prover/z3/issues/2977 Won't fix
+https://github.com/Z3Prover/z3/issues/2976 Fixed
+https://github.com/Z3Prover/z3/issues/2966 Fixed
+https://github.com/Z3Prover/z3/issues/2963 Fixed
+https://github.com/Z3Prover/z3/issues/2962 Fixed
+https://github.com/Z3Prover/z3/issues/2960 Fixed
+https://github.com/Z3Prover/z3/issues/2959 Fixed
+https://github.com/Z3Prover/z3/issues/2958 Dup
+https://github.com/Z3Prover/z3/issues/2955 Fixed
+https://github.com/Z3Prover/z3/issues/2954 Fixed
+https://github.com/Z3Prover/z3/issues/2953 Fixed
+https://github.com/Z3Prover/z3/issues/2951 Fixed
+https://github.com/Z3Prover/z3/issues/2950 Fixed
+https://github.com/Z3Prover/z3/issues/2949 Fixed
+https://github.com/Z3Prover/z3/issues/2948 Fixed
+https://github.com/Z3Prover/z3/issues/2945 Fixed
+https://github.com/Z3Prover/z3/issues/2943 Fixed
+https://github.com/Z3Prover/z3/issues/2936#event-3007898972 Fixed
+https://github.com/Z3Prover/z3/issues/2913#event-3003067810 Fixed
+https://github.com/Z3Prover/z3/issues/2938 Fixed
+https://github.com/Z3Prover/z3/issues/2937 Fixed
+https://github.com/Z3Prover/z3/issues/2933 Fixed
+https://github.com/Z3Prover/z3/issues/2934 Fixed
+https://github.com/Z3Prover/z3/issues/2935 Fixed
+https://github.com/Z3Prover/z3/issues/2930 Fixed
+https://github.com/Z3Prover/z3/issues/2929 Fixed
+https://github.com/Z3Prover/z3/issues/2928 Fixed
+https://github.com/Z3Prover/z3/issues/2927 Won't fix
+https://github.com/Z3Prover/z3/issues/2912#event-2999744902 Fixed
+https://github.com/Z3Prover/z3/issues/2910#event-2999744901 Fixed
+https://github.com/Z3Prover/z3/issues/2921 Fixed
+https://github.com/Z3Prover/z3/issues/2919 Fixed
+https://github.com/Z3Prover/z3/issues/2918 Fixed
+https://github.com/Z3Prover/z3/issues/2914 Dup
+https://github.com/Z3Prover/z3/issues/2909 Fixed
+https://github.com/Z3Prover/z3/issues/2908 Fixed
+https://github.com/Z3Prover/z3/issues/2903 Fixed
+https://github.com/Z3Prover/z3/issues/2902 Fixed
+https://github.com/Z3Prover/z3/issues/2890 Fixed
+https://github.com/Z3Prover/z3/issues/2891 Fixed
+https://github.com/Z3Prover/z3/issues/2889 Dup
+https://github.com/Z3Prover/z3/issues/2888 Won't fix
+https://github.com/Z3Prover/z3/issues/2883 Fixed
+https://github.com/Z3Prover/z3/issues/2877 Fixed
+https://github.com/Z3Prover/z3/issues/2868 Won't fix
+https://github.com/Z3Prover/z3/issues/2867 Confirmed
+https://github.com/Z3Prover/z3/issues/2863 Fixed
+https://github.com/Z3Prover/z3/issues/2831#event-2912235017 Fixed
+https://github.com/Z3Prover/z3/issues/2825 Fixed
+https://github.com/Z3Prover/z3/issues/2824 Fixed
+https://github.com/Z3Prover/z3/issues/2813 Fixed
+https://github.com/Z3Prover/z3/issues/2736 Fixed
+https://github.com/Z3Prover/z3/issues/2811 Fixed
+https://github.com/Z3Prover/z3/issues/2797 Fixed
+https://github.com/Z3Prover/z3/issues/2795#event-2870057966 Fixed
+https://github.com/Z3Prover/z3/issues/2794 Fixed
+https://github.com/Z3Prover/z3/issues/2793 Fixed
+https://github.com/Z3Prover/z3/issues/2791 Fixed
+https://github.com/Z3Prover/z3/issues/2789 Fixed
+https://github.com/Z3Prover/z3/issues/2788 Fixed
+https://github.com/Z3Prover/z3/issues/2781 Dup
+https://github.com/Z3Prover/z3/issues/2782 Fixed
+https://github.com/Z3Prover/z3/issues/2780 Fixed
+https://github.com/Z3Prover/z3/issues/2779 Fixed
+https://github.com/Z3Prover/z3/issues/2778 Fixed
+https://github.com/Z3Prover/z3/issues/2774 Fixed
+https://github.com/Z3Prover/z3/issues/2773 Fixed
+https://github.com/Z3Prover/z3/issues/2772 Fixed
+https://github.com/Z3Prover/z3/issues/2771 Fixed
+https://github.com/Z3Prover/z3/issues/2770 Fixed
+https://github.com/Z3Prover/z3/issues/2767 Fixed
+https://github.com/Z3Prover/z3/issues/2765 Fixed
+https://github.com/Z3Prover/z3/issues/2763 Fixed
+https://github.com/Z3Prover/z3/issues/2762 Fixed
+https://github.com/Z3Prover/z3/issues/2760 Won't fix
+https://github.com/Z3Prover/z3/issues/2750 Fixed
+https://github.com/Z3Prover/z3/issues/2749 Fixed
+https://github.com/Z3Prover/z3/issues/2744 Fixed
+https://github.com/Z3Prover/z3/issues/2741 Fixed
+https://github.com/Z3Prover/z3/issues/2722 Fixed
+https://github.com/Z3Prover/z3/issues/2713 Fixed
+https://github.com/Z3Prover/z3/issues/2693 Dup
+https://github.com/Z3Prover/z3/issues/2692 Fixed
+https://github.com/Z3Prover/z3/issues/2577 Fixed
+https://github.com/Z3Prover/z3/issues/2743 Fixed
+https://github.com/Z3Prover/z3/issues/2728 Fixed
+https://github.com/Z3Prover/z3/issues/2726 Fixed
+https://github.com/Z3Prover/z3/issues/2723 Fixed
+https://github.com/Z3Prover/z3/issues/2718 Fixed
+https://github.com/Z3Prover/z3/issues/2714 Fixed
+https://github.com/Z3Prover/z3/issues/2706 Fixed
+https://github.com/Z3Prover/z3/issues/2679 Dup
+https://github.com/Z3Prover/z3/issues/2676 Dup
+https://github.com/Z3Prover/z3/issues/2675 Fixed
+https://github.com/Z3Prover/z3/issues/2664 Fixed
+https://github.com/Z3Prover/z3/issues/2663 Fixed
+https://github.com/Z3Prover/z3/issues/2662 Fixed
+https://github.com/Z3Prover/z3/issues/2630 Fixed
+https://github.com/Z3Prover/z3/issues/2629 Fixed
+https://github.com/Z3Prover/z3/issues/2623 Fixed
+https://github.com/Z3Prover/z3/issues/2617 Won't fix
+https://github.com/Z3Prover/z3/issues/2616 Won't fix
+https://github.com/Z3Prover/z3/issues/2610 Fixed
+https://github.com/Z3Prover/z3/issues/2609 Fixed
+https://github.com/Z3Prover/z3/issues/2603 Fixed
+https://github.com/Z3Prover/z3/issues/2595 Fixed
+https://github.com/Z3Prover/z3/issues/2590 Fixed
+https://github.com/Z3Prover/z3/issues/2586 Fixed
+https://github.com/Z3Prover/z3/issues/2585 Fixed
+https://github.com/Z3Prover/z3/issues/2581 Fixed
