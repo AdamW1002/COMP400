@@ -58,6 +58,8 @@ for x in dicts.keys():
 for x in dicts.keys():
     dicts[x] = transform_data(dicts[x])
 
+json.dump(dicts, open("bug_urls/transformed_data.json", "w"))
+
 
 
 
