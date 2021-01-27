@@ -3,19 +3,21 @@ import os
 import json
 import validators
 import functools
+import requests
+
 
 z3_repo = "https://api.github.com/repos/Z3Prover/z3/issues"
-cvc4_repo = "https://api.github.com/repos/CVC4/cvc4-projects/issues"
+cvc4_repo = "https://api.github.com/repos/CVC4/CVC4/issues"
 
-# files = ["bug_urls/cvc4urlsSF.txt", "bug_urls/z3urlsSF.txt","bug_urls/cvc4urlsTOM.txt", "bug_urls/z3urlsTOM.txt"] #files with links to bug issues
-files = ["bug_urls/z3urlsSF.txt", "bug_urls/z3urlsTOM.txt"]  # cvc4 is weird :(
-
+files = ["/home/aweiss13/comp400/COMP400/bug_urls/cvc4urlsSF.txt", "/home/aweiss13/comp400/COMP400/bug_urls/z3urlsSF.txt","/home/aweiss13/comp400/COMP400/bug_urls/cvc4urlsTOM.txt", "/home/aweiss13/comp400/COMP400/bug_urls/z3urlsTOM.txt"] #files with links to bug issues
+#files = ["bug_urls/z3urlsSF.txt", "bug_urls/z3urlsTOM.txt"]  # cvc4 is weird :(
+#files = ["/home/aweiss13/comp400/COMP400/bug_urls/cvc4urlsSF.txt", "/home/aweiss13/comp400/COMP400/bug_urls/cvc4urlsTOM.txt"]
 
 def get_issue(repo: str, issue: int):  # get a single issue from a repo
-    return json.loads(
-        os.popen(
-            "curl -u AdamW1002:e7ce29aad2883e7fa4ddd5c406bd6fdfda2bb0d8 \-H \"Accept: application/vnd.github.v3+json\" \ " + repo + "/" + str(
-                issue)).read())
+    return json.loads(requests.get(repo + "/" + str(issue), auth =  requests.auth.HTTPBasicAuth('AdamW1002', '1559610a504b8fa84bc2fd01484518f7a379bd72')).text)
+            #os.popen(
+            #"curl -u AdamW1002:1559610a504b8fa84bc2fd01484518f7a379bd72 \-H \"Accept: application/vnd.github.v3+json\" \ " + repo + "/" + str(
+             #   issue)).read())
 
 
 def get_urls_from_file(file_name: str):  # get all urls and comments from a file
@@ -49,7 +51,7 @@ def dictify(l):
 
 
 x = list(filter(lambda a: a[1] != "Dup",
-                functools.reduce(lambda a, b: a + b, (map(lambda y: get_urls_from_file(y), files)))))
+                functools.reduce(lambda a, b: a + b, (map(lambda y: get_urls_from_file(y), files[:10])))))
 
 x = list(map(lambda a: extract_data(a), x))
 x = list(filter(lambda a : a != None,x))
@@ -65,6 +67,6 @@ for i in range(0, len(x)):
 
 x = functools.reduce(lambda a, b: {**a, **b}, x)
 
-f = open("bug_urls/bug_report_data.json", "w")  # clear the file
+f = open("/home/aweiss13/comp400/COMP400/bug_urls/bug_report_data.json", "w")  # clear the file
 json.dump(x, f)
 f.close()

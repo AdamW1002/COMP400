@@ -67,7 +67,7 @@ model.add(Dense(1, activation = 'sigmoid'))
 model.compile(loss='binary_crossentropy', optimizer='Adagrad', metrics=['accuracy'])
 
 History = model.fit(train,targets, epochs=5, batch_size=128, validation_split= .2)
-with open("rnn_training.txt", 'a') as f:
+with open("rnn_training.txt", 'w') as f:
     np.savetxt(f, model.summary() + " \n " +  History.history['val_accuracy'], delimiter= ',')
 print(model.summary())
 

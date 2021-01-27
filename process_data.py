@@ -44,7 +44,7 @@ def transform_data(datum):
     return {"body" : datum['0'], "priority" : priority}
 
 
-f = open("bug_urls/bug_report_data.json")
+f = open("/home/aweiss13/comp400/COMP400/bug_urls/bug_report_data.json")
 
 dicts = json.loads(f.read()) #get all the dicts
 #process the json
@@ -58,7 +58,7 @@ for x in dicts.keys():
 for x in dicts.keys():
     dicts[x] = transform_data(dicts[x])
 
-json.dump(dicts, open("bug_urls/transformed_data.json", "w"))
+json.dump(dicts, open("/home/aweiss13/comp400/COMP400/bug_urls/transformed_data.json", "w"))
 
 
 
