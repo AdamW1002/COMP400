@@ -1,0 +1,6 @@
+foo2 called with i32 0 foo2 
+llvm.dbg.declare called with metadata i32* %bar.addr metadata !17 metadata !DIExpression() llvm.dbg.declare 
+foo called with i32 %0 foo 
+llvm.dbg.declare called with metadata i32* %bar.addr metadata !11 metadata !DIExpression() llvm.dbg.declare 
+printf called with i8* getelementptr inbounds ([4 x i8], [4 x i8]* @.str, i64 0, i64 0) call printf 
+llvm.dbg.declare called with metadata i8** %str metadata !28 metadata !DIExpression() llvm.dbg.declare 
