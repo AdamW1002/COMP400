@@ -63,10 +63,10 @@ model.add(Embedding(1000, embedding_vector_length, input_length=max_review_lengt
 model.add(LSTM(256, dropout=0.2, recurrent_dropout=0.2, return_sequences=True))
 model.add(LSTM(128, dropout=0.2, recurrent_dropout=0.2))
 #model.add(Dense(16, activation='sigmoid'))
-model.add(Dense(1, activation = 'sigmoid'))
+model.add(Dense(1, activation = 'relu'))
 model.compile(loss='binary_crossentropy', optimizer='Adagrad', metrics=['accuracy'])
 
-History = model.fit(train,targets, epochs=5, batch_size=128, validation_split= .2)
+History = model.fit(train,targets, epochs=20, batch_size=128, validation_split= .2)
 with open("rnn_training.txt", 'w') as f:
     np.savetxt(f, model.summary() + " \n " +  History.history['val_accuracy'], delimiter= ',')
 print(model.summary())
